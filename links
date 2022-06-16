@@ -48,7 +48,11 @@ lstnet
 timeseries links
 https://github.com/timeseriesAI/tsai
 
+
 python lib pmdarima
 statistical methods by snedicor and cochran
+https://towardsdatascience.com/time-series-forecasting-prediction-intervals-360b1bf4b085
+
+above for pmdarima
 
 
